@@ -13,7 +13,7 @@ manual processes and deliver measurable ROI.
 LangChain · LangGraph · RAG · FAISS · 
 LangSmith · n8n · ElevenLabs · Browserbase · 
 Firecrawl · OpenAI · Anthropic · FastAPI · 
-Python · Docker · AWS EC2
+Python · Docker · AWS EC2 · ZenML · MLOps · ML Pipelines
 
 ## 📫 Contact:
 muteebnasir9@gmail.com
