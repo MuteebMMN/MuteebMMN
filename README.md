@@ -1,16 +1,20 @@
-## Hi there 👋
+# Muteeb Nasir — AI Engineer
 
-<!--
-**MuteebMMN/MuteebMMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI systems that replace expensive 
+manual processes and deliver measurable ROI.
 
-Here are some ideas to get you started:
+## 🚀 What I've shipped in 12 months:
+- ⚡ Cut company research: 45 min → 60 sec
+- 💰 Replaced SDR teams saving $4-6K/month  
+- 📞 Automated 100% of inbound calls
+- ⏱ Eliminated 3-4hrs/day manual data entry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack:
+LangChain · LangGraph · RAG · FAISS · 
+LangSmith · n8n · ElevenLabs · Browserbase · 
+Firecrawl · OpenAI · Anthropic · FastAPI · 
+Python · Docker · AWS EC2
+
+## 📫 Contact:
+muteebnasir9@gmail.com
+linkedin.com/in/muteeb-nasir
