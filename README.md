@@ -9,11 +9,14 @@ An agentic RAG assistant that answers from private company documents, escalates 
 
 Stack: LangGraph, Pinecone, reranker, FastAPI, JWT auth, guardrails, Docker on Google Cloud Run
 Evaluated with RAGAS, DeepEval and pytest: unanswerable questions correctly escalated 0/5 → 5/5, faithfulness 0.69 → 0.90, privacy suite 44/44
+
 🧰 Other projects
 Multimodel-RAG-APP: extracts structured data from English and German invoices and contracts
 Sentiment-analysis: multimodal video sentiment model (BERT, FastAPI, Celery, AWS SageMaker, Docker)
 Autonomous-blog-writing-agent-: LangGraph agent that researches, drafts and publishes posts
 jobpilot-AI-native-project: job research agent (LangGraph, Browserbase, Firecrawl)
+
+
 🛠️ Tech
 LLM & agents: LangChain, LangGraph, RAG, FAISS, Pinecone, RAGAS, DeepEval, LangSmith ML & backend: Python, PyTorch, FastAPI, Celery, Redis, PostgreSQL, Docker, AWS, Cloud Run Automation: n8n, ElevenLabs · Web: React, Node.js, TypeScript
 
