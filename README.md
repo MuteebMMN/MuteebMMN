@@ -1,10 +1,12 @@
 Hi, I'm Muteeb Nasir 👋
+
 AI / Machine Learning Engineer · agentic AI, RAG and production ML · 5+ years in software engineering 📍 Riyadh · open to roles in Germany and the Netherlands · English C2, German A1
 
 I build LLM systems that cite their sources, say "I don't know" when they should, protect private data, and are measured with real evaluations.
 
 🚀 Featured project
 Enterprise IT Support Agentic RAG Copilot · Live demo
+
 An agentic RAG assistant that answers from private company documents, escalates when the answer isn't there, and keeps one employee's HR data from another.
 
 Stack: LangGraph, Pinecone, reranker, FastAPI, JWT auth, guardrails, Docker on Google Cloud Run
@@ -12,8 +14,11 @@ Evaluated with RAGAS, DeepEval and pytest: unanswerable questions correctly esca
 
 🧰 Other projects
 Multimodel-RAG-APP: extracts structured data from English and German invoices and contracts
+
 Sentiment-analysis: multimodal video sentiment model (BERT, FastAPI, Celery, AWS SageMaker, Docker)
+
 Autonomous-blog-writing-agent-: LangGraph agent that researches, drafts and publishes posts
+
 jobpilot-AI-native-project: job research agent (LangGraph, Browserbase, Firecrawl)
 
 
