@@ -13,6 +13,7 @@ Stack: LangGraph, Pinecone, reranker, FastAPI, JWT auth, guardrails, Docker on G
 Evaluated with RAGAS, DeepEval and pytest: unanswerable questions correctly escalated 0/5 → 5/5, faithfulness 0.69 → 0.90, privacy suite 44/44
 
 🧰 Other projects
+
 Multimodel-RAG-APP: extracts structured data from English and German invoices and contracts
 
 Sentiment-analysis: multimodal video sentiment model (BERT, FastAPI, Celery, AWS SageMaker, Docker)
